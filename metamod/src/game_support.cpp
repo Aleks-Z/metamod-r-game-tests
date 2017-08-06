@@ -11,7 +11,7 @@ const game_modinfo_t g_known_games[] = {
 	//
 	// List contains only steam\steampipe versions of mods. Any won-versions of mods is not included!
 	//
-	{ "action",             "ahl_i386.so",              "ahl.dll",                   "Action Half-Life"                                 }, // + director's cut [2016], updated linux binary name
+	{ "action",             nullptr,                    "ahl.dll",                   "Action Half-Life"                                 }, // + director's cut [2016], updated linux binary name
 	{ "ag",                 "ag.so",                    "ag.dll",                    "Adrenaline Gamer"                                 }, // .so file by OpenAG fork
 	{ "asheep",             nullptr,                    "hl.dll",                    "Azure Sheep"                                      }, // have no linux binary found!
 	{ "bdef",               "server.so",                "server.dll",                "Base Defense"                                     }, // placed in normal dll folder [2017]
