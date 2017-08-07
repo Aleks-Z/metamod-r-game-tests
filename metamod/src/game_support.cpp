@@ -49,7 +49,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "hostileintent",      nullptr,                    "hl.dll",                    "Hostile Intent"                                   },
 	{ "ios",                nullptr,                    "ios.dll",                   "International Online Soccer"                      },
 	{ "judgedm",            nullptr,                    "mp.dll",                    "Judgement"                                        },
-	{ "kanonball",          "hl.so",                    "kanonball.dll",             "Kanonball"                                        },
+	{ "kanonball",          nullptr,                    "kanonball.dll",             "Kanonball"                                        },
 	{ "monkeystrike",       "ms.so",                    "monkey.dll",                "Monkeystrike"                                     },
 	{ "MorbidPR",           "morbid.so",                "morbid.dll",                "Morbid Inclination"                               },
 	{ "movein",             "hl.so",                    "hl.dll",                    "Move In!"                                         },
