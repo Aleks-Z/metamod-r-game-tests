@@ -45,7 +45,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "hcfrenzy",           "hcfrenzy.so",              "hcfrenzy.dll",              "Headcrab Frenzy"                                  },
 	{ "hl15we",             "hl.so",                    "hl.dll",                    "Half-Life 1.5: Weapon Edition"                    },
 	{ "hlrally",            "hlr_i386.so",              "hlrally.dll",               "HL-Rally"                                         },
-	{ "holywars",           "hl.so",                    "holywars.dll",              "Holy Wars"                                        },
+	{ "holywars",           nullptr,                    "holywars.dll",              "Holy Wars"                                        },
 	{ "hostileintent",      "hl.so",                    "hl.dll",                    "Hostile Intent"                                   },
 	{ "ios",                "ios.so",                   "ios.dll",                   "International Online Soccer"                      },
 	{ "judgedm",            "judge.so",                 "mp.dll",                    "Judgement"                                        },
