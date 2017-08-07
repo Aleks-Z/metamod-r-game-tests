@@ -48,7 +48,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "holywars",           nullptr,                    "holywars.dll",              "Holy Wars"                                        },
 	{ "hostileintent",      nullptr,                    "hl.dll",                    "Hostile Intent"                                   },
 	{ "ios",                nullptr,                    "ios.dll",                   "International Online Soccer"                      },
-	{ "judgedm",            "judge.so",                 "mp.dll",                    "Judgement"                                        },
+	{ "judgedm",            nullptr,                    "mp.dll",                    "Judgement"                                        },
 	{ "kanonball",          "hl.so",                    "kanonball.dll",             "Kanonball"                                        },
 	{ "monkeystrike",       "ms.so",                    "monkey.dll",                "Monkeystrike"                                     },
 	{ "MorbidPR",           "morbid.so",                "morbid.dll",                "Morbid Inclination"                               },
