@@ -88,7 +88,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "timeless",           "pt.so",                    "timeless.dll",              "Project Timeless"                                 },
 	{ "tod",                "hl.so",                    "hl.dll",                    "Tour of Duty"                                     },
 	{ "trainhunters",       "th.so",                    "th.dll",                    "Train Hunters"                                    },
-	{ "ts",	                "ts_i686.so",               "mp.dll",		         "The Specialists"                                  },
+	{ "ts",	                "ts_i686.so",               "mp.dll",                    "The Specialists"                                  },
 	{ "ts",                 "ts_i386.so",               "mp.dll",                    "The Specialists"                                  },
 	{ "tt",                 "tt.so",                    "tt.dll",                    "The Trenches"                                     },
 	{ "underworld",         "uw.so",                    "uw.dll",                    "Underworld Bloodline"                             },
