@@ -50,7 +50,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "ios",                nullptr,                    "ios.dll",                   "International Online Soccer"                      },
 	{ "judgedm",            nullptr,                    "mp.dll",                    "Judgement"                                        },
 	{ "kanonball",          nullptr,                    "kanonball.dll",             "Kanonball"                                        },
-	{ "monkeystrike",       "ms.so",                    "monkey.dll",                "Monkeystrike"                                     },
+	{ "monkeystrike",       "ms_i386.so",               "monkey.dll",                "Monkeystrike"                                     },
 	{ "MorbidPR",           "morbid.so",                "morbid.dll",                "Morbid Inclination"                               },
 	{ "movein",             "hl.so",                    "hl.dll",                    "Move In!"                                         },
 	{ "msc",                nullptr,                    "ms.dll",                    "Master Sword Continued"                           },
