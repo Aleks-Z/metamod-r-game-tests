@@ -52,7 +52,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "kanonball",          nullptr,                    "kanonball.dll",             "Kanonball"                                        },
 	{ "monkeystrike",       "ms_i386.so",               "monkey.dll",                "Monkeystrike"                                     },
 	{ "Morbid",             nullptr,                    "morbid.dll",                "Morbid Inclination"                               },
-	{ "movein",             "hl.so",                    "hl.dll",                    "Move In!"                                         },
+	{ "movein",             "hl_i386.so",               "hl.dll",                    "Move In!"                                         },
 	{ "msc",                nullptr,                    "ms.dll",                    "Master Sword Continued"                           },
 	{ "ns",                 "ns.so",                    "ns.dll",                    "Natural Selection"                                },
 	{ "nsp",                "ns.so",                    "ns.dll",                    "Natural Selection Beta"                           },
