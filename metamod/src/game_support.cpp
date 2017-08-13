@@ -57,7 +57,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "ns",                 "ns.so",                    "ns.dll",                    "Natural Selection"                                },
 	{ "nsp",                "ns.so",                    "ns.dll",                    "Natural Selection Beta"                           },
 	{ "og",                 "og.so",                    "og.dll",                    "Over Ground"                                      },
-	{ "ol",                 "ol.so",                    "hl.dll",                    "Outlawsmod"                                       },
+	{ "ol",                 nullptr,                    "hl.dll",                    "Outlawsmod"                                       },
 	{ "ops1942",            nullptr,                    "spirit.dll",                "Operations 1942"                                  },
 	{ "jailbreak",          nullptr,                    "mp.dll",                    "Open-Source Jailbreak"                            },
 	{ "outbreak",           nullptr,                    "hl.dll",                    "Out Break"                                        }, // have no linux binary
